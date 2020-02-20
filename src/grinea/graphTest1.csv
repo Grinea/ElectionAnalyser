@@ -1,0 +1,6 @@
+from_State,from_Division,from_Latitude,from_Longitude,to_State,to_Division,to_Latitude,to_Longitude,distance_metres,time_minutes,trans_type
+ACT,Hello,-35.349,149.089,ACT,Fenner,-35.236,149.111,21144,1148,car
+ACT,Hi,-35.349,149.089,NSW,Hello,-33.940248,151.175186,287749,10603,car
+ACT,Bob,-35.349,149.089,VIC,Hi,-37.669612,144.842524,661196,23591,car
+ACT,Garry,-35.349,149.089,VIC,Bob,-37.669612,144.842524,661196,23591,car
+ACT,Cheese,-35.349,149.089,VIC,Garry,-37.669612,144.842524,661196,23591,car
